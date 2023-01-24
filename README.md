@@ -2,7 +2,7 @@
 
 
 ### How to download
-- Go to the release, and download the leatest version.
+- Go to the release, and download the leatest version apk.
 
 
 There is no deffrent between Jellyflix Request website and Jellyflix Request apk. Better to use apk for request any movie or show.

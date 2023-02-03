@@ -1,4 +1,4 @@
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/xenoncolt/Jellyflix_Request_Mobile?style=for-the-badge">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/xenoncolt/Jellyflix_Request_Mobile?style=for-the-badge"> ![GitHub all releases](https://img.shields.io/github/downloads/xenoncolt/Jellyflix_Request_Mobile/total?style=for-the-badge) 
 
 
 ### How to download
